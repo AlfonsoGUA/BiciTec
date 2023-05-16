@@ -111,6 +111,3 @@ $productos = obtenerProductos();
 </body>
 
 </html>
-
-
-
